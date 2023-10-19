@@ -17,6 +17,7 @@ First year internships & spring insights coming soon!
 | Google               | London, UK  | [**open**](https://www.google.com/about/careers/applications/jobs/results/76031878571664070-software-engineering-site-reliability-engineering-intern-2024?src=Online/Google%20Website/ByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN)   |
 | HubSpot              | London, UK  | [**open**](https://www.hubspot.com/careers/jobs/5272398?hubs_signup-cta=careers-apply)   |
 | HRT                  | London, UK  | [**open**](https://www.hudsonrivertrading.com/student-opportunities/)   |
+| IMC                  | Amsterdam, Netherlands | [**open**](https://careers.imc.com/us/en/job/REQ-03039/Software-Engineer-Intern)
 | Jane Street          | London, UK  | [**open**](https://www.janestreet.com/join-jane-street/position/6781186002/)   |
 | JP Morgan            | London, UK  | [**open**](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer)     |
 | Marshall Wace        | London, UK  | [**open**](https://jobs.smartrecruiters.com/Wiser/743999928978354-technology-internship-programme-2024-ldn-marshall-wace)
@@ -26,9 +27,11 @@ First year internships & spring insights coming soon!
 | Natwest              | London, UK  | [**open**](https://jobs.natwestgroup.com/pages/software-engineering-internships)
 | Optiver              | Amsterdam, Netherlands | [**open**](https://optiver.com/working-at-optiver/career-opportunities/6879445002/)     |
 | Palantir             | London, UK  | [**open (Devs)**](https://optiver.com/working-at-optiver/career-opportunities/6879445002/), [**open (Delta)**](https://jobs.lever.co/palantir/7f744341-9e34-44e8-915f-4f083a0c0d30)   |
+| Pimco                | London, UK  | [**open**](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2024-Summer-Internship---Technology-Analyst--EMEA_R103249)
 | QRT                  | London, UK  | [**open (Quant Dev)**](https://www.qube-rt.com/careers/technology/quantitative-development/paris/students-and-new-graduates/job?gh_jid=6936565002)   |
 | Softwire             | London & Cambridge & Manchester, UK | [**open**](https://www.softwire.com/vacancy/software-development-internship-2/)
 | Squarepoint Capital  | London, UK  | [**open**](https://www.squarepoint-capital.com/careers#/job/5342482)   |
+| Tesco                | London, UK  | [**open**](https://apply.tesco-careers.com/members/modules/job/detail.php?record=827138)
 | The Trade Desk       | London, UK  | [**open**](https://careers.thetradedesk.com/us/en/job/REQ-5887/2024-Summer-Intern-Software-Engineer-London)     |
 | Tiktok               | London, UK  | [**open (Systems Engineer)**](https://careers.tiktok.com/position/7266068529412278585/detail)
 | Two Sigma            | London, UK  | [**open**](https://careers.twosigma.com/careers/SearchJobs/intern?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)   |
