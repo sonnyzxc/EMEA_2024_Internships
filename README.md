@@ -25,6 +25,7 @@ First year internships & spring insights coming soon!
 | Meta                 | London, UK  | **not open** :clock9: |
 | Microsoft            | London, UK  | **closed** :exclamation: |
 | Natwest              | London, UK  | [**open**](https://jobs.natwestgroup.com/pages/software-engineering-internships)
+| Netcraft             | London, UK  | [**open**](https://www.netcraft.com/company/student-careers/)
 | Optiver              | Amsterdam, Netherlands | [**open**](https://optiver.com/working-at-optiver/career-opportunities/6879445002/)     |
 | Palantir             | London, UK  | [**open (Devs)**](https://optiver.com/working-at-optiver/career-opportunities/6879445002/), [**open (Delta)**](https://jobs.lever.co/palantir/7f744341-9e34-44e8-915f-4f083a0c0d30)   |
 | Pimco                | London, UK  | [**open**](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2024-Summer-Internship---Technology-Analyst--EMEA_R103249)
