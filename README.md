@@ -4,13 +4,18 @@ First year internships & spring insights coming soon!
 
 | Company              | Location    | Link               |
 |----------------------|-------------|--------------------|
+| Adobe                | Edinburgh, UK | [**open**](https://careers.adobe.com/us/en/job/R139567/2024-Intern-Software-Development-Engineering)
 | Amazon               | London, UK  | **closed** :exclamation:        |
 | Barclays             | London, UK  | [**open**](https://search.jobs.barclays/job/london/technology-developer-summer-internship-programme-2024-london/13015/53950920672)
 | Bloomberg            | London, UK  | [**open**](https://careers.bloomberg.com/job/detail/118603)   |
+| Cisco                | London, UK  | [**open**](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-London-Summer-2024-Meraki/1411771)
 | Citadel              | London, UK  | [**open**](https://www.citadel.com/careers/details/software-engineer-intern-europe/)     |
 | Citadel Securities   | London, UK  | [**open**](https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/)
+| Citi                 | London, UK  | [**open**](https://jobs.citi.com/job/london/technology-summer-software-development-analyst-2024/287/54075435776)
+| Cloudflare           | London, UK  | [**open**](https://boards.greenhouse.io/cloudflare/jobs/5366949?gh_jid=5366949)
 | Databricks           | Berlin, Germany & Amsterdam, Netherlands| [**open (Berlin)**](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866531002), [**open (Amsterdam)**](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002)|
 | DE Shaw              | London, UK  | [**open (Systems Engineering)**](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2024-4787)     |
+| Deutsche Bank        | London, UK  | [**open](https://db.recsolu.com/external/requisitions/om9UmnAso0uBYUUANfLFlg)
 | DRW                  | London, UK  | [**open**](https://drw.com/work-at-drw/listings/software-developer-intern-2582226)   |
 | Five Rings           | London, UK  | [**open**](https://fiverings.avature.net/careers/FolderDetail/London-England-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Developer-Summer-Intern-2024-London/655)   |
 | GSA Capital          | London, UK  | [**open**](https://www.gsacapital.com/?section=careers&gh_src=fb4d5c7d2&id=6795640002)     |
